@@ -1,0 +1,4 @@
+sources:
+  "9.4.2":
+    url: "https://github.com/Kitware/VTK/archive/refs/tags/v9.4.2.tar.gz"
+    sha256: "B2E1A2A9A0F8D839F26FC023853DB0466F7651DBCF0654575319DF5376D8F438"  
